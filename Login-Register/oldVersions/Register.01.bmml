@@ -56,7 +56,7 @@
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::HelpButton" x="1162" y="503" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Title" x="972" y="289" w="-1" h="-1" measuredW="190" measuredH="43" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Title" x="991" y="289" w="-1" h="-1" measuredW="190" measuredH="43" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
         <size>40</size>
