@@ -1,0 +1,205 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1274" measuredH="1035" mockupW="1268" mockupH="1006">
+  <controls>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Image" x="239" y="124" w="-1" h="-1" measuredW="1035" measuredH="911" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/UNR-EXP.01.Eventos-Listado.Llegada.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="251" controlTypeID="com.balsamiq.mockups::Label" x="244" y="29" w="1025" h="-1" measuredW="841" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>40</size>
+        <text>Usuario%20no%20registrado%20-%20Propuesta%20de%20evento</text>
+      </controlProperties>
+    </control>
+    <control controlID="252" controlTypeID="com.balsamiq.mockups::Label" x="442" y="74" w="-1" h="-1" measuredW="711" measuredH="48" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <italic>true</italic>
+        <size>40</size>
+        <text>Editado%20el%20t%EDtulo%20y%20clic%20sobre%20%22Tem%E1tica%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="260" controlTypeID="com.balsamiq.mockups::Canvas" x="240" y="196" w="1031" h="815" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>3355443</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>UNR-EXP.08.Eventos-SeleccionadoEvento%26bm%3BUNR-EXP.08.Eventos-SeleccionadoEvento.bmml%26bm%3BUNR-EXP.08.Eventos-SeleccionadoEvento.bmml%26bm%3BUNR-EXP.08.Eventos-SeleccionadoEvento.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22234%2C167%2C1265%2C982%22%20href%3D%22UNR-EXP.08.Eventos-SeleccionadoEvento.bmml%22%20alt%3D%22UNR-EXP.08.Eventos-SeleccionadoEvento%22%20id%3D%22260%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="261" controlTypeID="com.balsamiq.mockups::Canvas" x="321" y="283" w="866" h="640" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>roundedSolid</borderStyle>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="262" controlTypeID="com.balsamiq.mockups::RoundButton" x="336" y="298" w="836" h="71" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>9684093</color>
+        <shape>dottedRect</shape>
+        <size>32</size>
+        <text>Asamblea%20abierta%20Red%20de%20Solidaridad%20Popular</text>
+      </controlProperties>
+    </control>
+    <control controlID="263" controlTypeID="com.balsamiq.mockups::RoundButton" x="336" y="378" w="138" h="64" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>16777215</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Tem%E1tica</text>
+      </controlProperties>
+    </control>
+    <control controlID="264" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="449" w="112" h="64" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Fecha</text>
+      </controlProperties>
+    </control>
+    <control controlID="266" controlTypeID="com.balsamiq.mockups::RoundButton" x="336" y="449" w="493" h="386" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Descripci%F3n%20del%20evento</text>
+      </controlProperties>
+    </control>
+    <control controlID="268" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="528" w="328" h="307" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="272" controlTypeID="com.balsamiq.mockups::SearchBox" x="894" y="661" w="229" h="-1" measuredW="218" measuredH="40" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>28</size>
+        <text>Busca%20un%20lugar</text>
+      </controlProperties>
+    </control>
+    <control controlID="277" controlTypeID="com.balsamiq.mockups::Image" x="852" y="537" w="312" h="288" measuredW="857" measuredH="629" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Madrid_-_Mapa_municipal.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="278" controlTypeID="com.balsamiq.mockups::Button" x="998" y="859" w="155" h="37" measuredW="104" measuredH="36" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <menuIcon>false</menuIcon>
+        <size>28</size>
+        <state>up</state>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="279" controlTypeID="com.balsamiq.mockups::Button" x="801" y="859" w="155" h="37" measuredW="140" measuredH="36" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14706278</color>
+        <menuIcon>false</menuIcon>
+        <size>28</size>
+        <state>up</state>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="281" controlTypeID="com.balsamiq.mockups::RoundButton" x="1062" y="449" w="110" h="64" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Hora</text>
+      </controlProperties>
+    </control>
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="758" w="328" h="77" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>24</size>
+        <text>Todav%EDa%20no%20has%20seleccionado%20un%20lugar</text>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="758" w="328" h="77" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>16777215</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="284" controlTypeID="com.balsamiq.mockups::List" x="474" y="378" w="251" h="144" measuredW="100" measuredH="144" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>12303802</alternateRowColor>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>46</rowHeight>
+        <text>%20%20%20%20%20%20%20%20%20%20%20Sanidad%0A%20%20%20%20%20%20%20%20%20%20%20Medio%20Ambiente%0A%20%20%20%20%20%20%20%20%20%20%20Educaci%F3n</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="285" controlTypeID="com.balsamiq.mockups::Image" x="482" y="433" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FS_default_od_32.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="286" controlTypeID="com.balsamiq.mockups::Image" x="482" y="481" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FS_default_academy_bg_32.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="287" controlTypeID="com.balsamiq.mockups::Image" x="482" y="386" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FS_medical_hospital_bg_32.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="288" controlTypeID="com.balsamiq.mockups::Icon" x="1197" y="249" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <icon>XIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="289" controlTypeID="com.balsamiq.mockups::CallOut" x="1071" y="314" w="-1" h="-1" measuredW="36" measuredH="39" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="290" controlTypeID="com.balsamiq.mockups::CallOut" x="290" y="394" w="-1" h="-1" measuredW="41" measuredH="39" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::StickyNote" x="6" y="140" w="212" h="269" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.-%20Cuando%20el%20usuario%20hace%20clic%20sobre%20el%20campo%2C%20%E9ste%20se%20pone%20blanco%20y%20permite%20su%20edici%F3n.%20Una%20vez%20introducido%20el%20texto%20y%20haciendo%20clic%20fuera%2C%20el%20campo%20se%20colorea%20en%20verde%20para%20indicar%20que%20el%20dato%20est%E1%20editado%20correctamente.%0A%20%0A2.-%20El%20usuario%20ha%20hecho%20clic%20sobre%20el%20campo%20%22Tem%E1tica%22%2C%20y%20se%20abre%20el%20desplegable%20que%20ofrece%20las%20distintas%20opciones%20disponibles.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

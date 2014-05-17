@@ -1,0 +1,176 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1274" measuredH="1035" mockupW="1267" mockupH="1006">
+  <controls>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Image" x="239" y="124" w="-1" h="-1" measuredW="1035" measuredH="911" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/UNR-EXP.01.Eventos-Listado.Llegada.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="251" controlTypeID="com.balsamiq.mockups::Label" x="244" y="29" w="1025" h="-1" measuredW="841" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>40</size>
+        <text>Usuario%20no%20registrado%20-%20Propuesta%20de%20evento</text>
+      </controlProperties>
+    </control>
+    <control controlID="252" controlTypeID="com.balsamiq.mockups::Label" x="442" y="74" w="-1" h="-1" measuredW="465" measuredH="48" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <italic>true</italic>
+        <size>40</size>
+        <text>Bot%F3n%20%22Prop%F3n%20un%20evento%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="260" controlTypeID="com.balsamiq.mockups::Canvas" x="240" y="195" w="1031" h="816" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>UNR-EXP.01.Eventos-Listado.Llegada%26bm%3BUNR-EXP.01.Eventos-Listado.Llegada.bmml%26bm%3BUNR-EXP.01.Eventos-Listado.Llegada.bmml%26bm%3BUNR-EXP.01.Eventos-Listado.Llegada.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22233%2C166%2C1264%2C982%22%20href%3D%22UNR-EXP.01.Eventos-Listado.Llegada.bmml%22%20alt%3D%22UNR-EXP.01.Eventos-Listado.Llegada%22%20id%3D%22260%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="261" controlTypeID="com.balsamiq.mockups::Canvas" x="321" y="283" w="866" h="640" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>roundedSolid</borderStyle>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="262" controlTypeID="com.balsamiq.mockups::RoundButton" x="336" y="298" w="836" h="71" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>32</size>
+        <text>T%EDtulo%20del%20evento</text>
+      </controlProperties>
+    </control>
+    <control controlID="263" controlTypeID="com.balsamiq.mockups::RoundButton" x="336" y="378" w="138" h="64" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Tem%E1tica</text>
+      </controlProperties>
+    </control>
+    <control controlID="264" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="449" w="112" h="64" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Fecha</text>
+      </controlProperties>
+    </control>
+    <control controlID="266" controlTypeID="com.balsamiq.mockups::RoundButton" x="336" y="449" w="493" h="386" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Descripci%F3n%20del%20evento</text>
+      </controlProperties>
+    </control>
+    <control controlID="268" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="528" w="328" h="307" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="272" controlTypeID="com.balsamiq.mockups::SearchBox" x="894" y="661" w="229" h="-1" measuredW="218" measuredH="40" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>28</size>
+        <text>Busca%20un%20lugar</text>
+      </controlProperties>
+    </control>
+    <control controlID="277" controlTypeID="com.balsamiq.mockups::Image" x="852" y="537" w="312" h="288" measuredW="857" measuredH="629" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Madrid_-_Mapa_municipal.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="278" controlTypeID="com.balsamiq.mockups::Button" x="998" y="859" w="155" h="37" measuredW="104" measuredH="36" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <menuIcon>false</menuIcon>
+        <size>28</size>
+        <state>up</state>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="279" controlTypeID="com.balsamiq.mockups::Button" x="801" y="859" w="155" h="37" measuredW="140" measuredH="36" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14706278</color>
+        <menuIcon>false</menuIcon>
+        <size>28</size>
+        <state>up</state>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="281" controlTypeID="com.balsamiq.mockups::RoundButton" x="1062" y="449" w="110" h="64" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text>Hora</text>
+      </controlProperties>
+    </control>
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="758" w="328" h="77" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>15374745</color>
+        <shape>dottedRect</shape>
+        <size>24</size>
+        <text>Todav%EDa%20no%20has%20seleccionado%20un%20lugar</text>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="com.balsamiq.mockups::RoundButton" x="844" y="758" w="328" h="77" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>16777215</color>
+        <shape>dottedRect</shape>
+        <size>28</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="284" controlTypeID="com.balsamiq.mockups::Icon" x="1197" y="249" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <href>UNR-EXP.01.Eventos-Listado.Llegada%26bm%3BUNR-EXP.01.Eventos-Listado.Llegada.bmml%26bm%3BUNR-EXP.01.Eventos-Listado.Llegada.bmml%26bm%3BUNR-EXP.01.Eventos-Listado.Llegada.bmml</href>
+        <icon>XIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221190%2C220%2C1222%2C252%22%20href%3D%22UNR-EXP.01.Eventos-Listado.Llegada.bmml%22%20alt%3D%22UNR-EXP.01.Eventos-Listado.Llegada%22%20id%3D%22284%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="285" controlTypeID="com.balsamiq.mockups::StickyNote" x="7" y="42" w="209" h="231" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.-%20Pantalla%20inicial%20tras%20pulsar%20el%20bot%F3n.%20Los%20campos%20se%20recuadran%20en%20l%EDnea%20discontinua%20para%20indicar%20que%20necesitan%20edici%F3n%2C%20y%20en%20color%20rojo%20al%20no%20haber%20sido%20modificado%20ninguno%20de%20ellos.%0A%20%0A2.-%20En%20cualquier%20momento%20se%20puede%20cerrar%20el%20formulario%20pulsando%20la%20X%20o%20haciendo%20clic%20fuera%20del%20mismo.</text>
+      </controlProperties>
+    </control>
+    <control controlID="286" controlTypeID="com.balsamiq.mockups::CallOut" x="297" y="246" w="-1" h="-1" measuredW="45" measuredH="40" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+      </controlProperties>
+    </control>
+    <control controlID="287" controlTypeID="com.balsamiq.mockups::CallOut" x="1138" y="234" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>2</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
